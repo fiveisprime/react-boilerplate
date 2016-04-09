@@ -1,0 +1,13 @@
+@import 'config/colors';
+@import 'config/variables';
+@import 'config/fonts';
+@import 'config/globals';
+
+// Layouts
+@import 'layouts/default';
+
+// Containers
+@import 'containers/home';
+
+// Components
+@import 'components/layout/header';
